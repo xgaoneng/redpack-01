@@ -1,7 +1,7 @@
 # redpack-01
 
-This repository is a PAOS workflow test repository and is safe for PAOS smoke tests and disposable workflow validation.
+This repository exists for PAOS workflow tests. It is a safe, intentionally minimal repository for smoke tests and disposable workflow validation.
 
-It is intentionally minimal and is used to validate a safe repository workflow, including inspection, small edits, and cleanup tasks.
+Its purpose is to exercise a constrained repository workflow: inspect the tree, make small reviewable edits, and clean up accidental files when needed.
 
-The expected workflow for this repository is to make limited, reviewable changes without committing or merging them as part of the test.
+Unless a test explicitly requires otherwise, changes in this repository should remain uncommitted and unmerged.
