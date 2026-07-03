@@ -1,5 +1,5 @@
 # redpack-01
 
-This repository is a PAOS workflow test repository.
+This repository exists for PAOS workflow testing.
 
-It is intentionally minimal and exists to validate safe repository operations such as inspection, small edits, and cleanup without merging or committing changes.
+It is intentionally minimal and is used to validate a safe repository workflow, including inspection, small edits, and cleanup tasks without committing or merging changes.
